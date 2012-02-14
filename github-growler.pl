@@ -10,7 +10,7 @@ use Config::IniFiles;
 use Encode;
 use AnyEvent;
 use Cocoa::Growl;
-use Cocoa::EventLoop;
+# use Cocoa::EventLoop;
 use AnyEvent::HTTP;
 use File::Copy;
 use File::Path;
